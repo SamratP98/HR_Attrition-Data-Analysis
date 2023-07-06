@@ -22,3 +22,6 @@ Key Skills Learnt
 🔑 Introduced to DAX language and how to use them for creating measures in PowerBi
 
 🔑 Created PowerBi Dashboard with so many different visuals.
+
+https://www.linkedin.com/posts/samrat-paul-775552170_dataanlytics-powerbi-sql-activity-7082746694303383552-siMd?utm_source=share&utm_medium=member_desktop
+This is the link of my linkedin post,i made a video on the dashboard and insights of it.
